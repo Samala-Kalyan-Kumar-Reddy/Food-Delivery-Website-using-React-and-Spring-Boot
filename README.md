@@ -1,70 +1,22 @@
-# Getting Started with Create React App
+# Flash Foods - Full-Stack Online Food Delivery Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to our comprehensive full-stack online food delivery application using Spring Boot and React. 🍔📱 In this project, we have built a powerful platform where restaurant owners can register and showcase their menus, while customers can effortlessly order their favorite dishes from various eateries.
 
-## Available Scripts
+## Features Implemented
 
-In the project directory, you can run:
+- Multi-vendor Platform: Register multiple restaurants to sell their food on our Flash Foods platform.
+- Admin Panel: Empower restaurant owners with a dedicated admin panel to manage their offerings.
+- Super Admin Panel: Control and oversee the entire platform.
+- Role-based Access: Ensure security with role-based permissions.
+- User-Friendly Functionalities: Incorporate features like adding to favorites ❤️, carousel displays 🎠, easy cart management 🛒, secure authentication 🔒, password reset via email 📧, order update notifications via email 📨, and integration with the Stripe payment gateway 💳.
 
-### `npm start`
+## Technologies Used in the Project
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Spring Boot: Utilize the powerful features and simplicity of Spring Boot for the backend.
+- React: Leverage the latest capabilities of React for the frontend.
+- MUI and Tailwind: Employ Material-UI and Tailwind CSS for intuitive and appealing designs.
+- Redux: Manage application state efficiently with Redux.
+- MySQL: Use MySQL for the database management.
+- JWT: Implement secure authentication with JSON Web Tokens.
+- React Router DOM: Handle navigation seamlessly in the React application.
+- Spring Security: Secure the Spring Boot backend with Spring Security.
